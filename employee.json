@@ -1,0 +1,37 @@
+[
+   {
+      "Name": "David Johnson",
+      "DOB": "1995-02-10",
+      "Height": 180,
+      "City": "Chicago",
+      "State": "Illinois"
+   },
+   {
+      "Name": "John Doe",
+      "DOB": "1990-05-15",
+      "Height": 175,
+      "City": "New York",
+      "State": "New York"
+   },
+   {
+      "Name": "Emily Davis",
+      "DOB": "1992-12-01",
+      "Height": 170,
+      "City": "Houston",
+      "State": "Texas"
+   },
+   {
+      "Name": "Michael Wilson",
+      "DOB": "1985-07-08",
+      "Height": 185,
+      "City": "Miami",
+      "State": "Florida"
+   },
+   {
+      "Name": "Jane Smith",
+      "DOB": "1988-09-21",
+      "Height": 165,
+      "City": "Los Angeles",
+      "State": "California"
+   }
+]
