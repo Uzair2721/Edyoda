@@ -1,0 +1,578 @@
+{
+  "Q1": {
+    "Text": "Which Especially Yours products have you purchased in the past 12 months?",
+    "Answer": [
+      "Hair pieces",
+      "Shoes",
+      "Hats/Handbags"
+    ],
+    "AnswerValue": [
+      2,
+      3,
+      4
+    ]
+  },
+  "Q2": {
+    "Text": "Which ONE of the products that you purchased from Especially Yours in the past 12 months do you consider to be your PRIMARY purchase (i.e., the product that is the MOST IMPORTANT to you)?",
+    "Answer": "Hair pieces",
+    "AnswerValue": 2
+  },
+  "Q3": {
+    "Text": "Why did you purchase {{(Q2.selectedText)}} from Especially Yours?",
+    "Answer": [
+      "For fashion",
+      "For convenience"
+    ],
+    "AnswerValue": [
+      3,
+      4
+    ]
+  },
+  "Q5": {
+    "Text": "What was your PRIMARY reason for buying {{(Q2.selectedText)}} from Especially Yours?",
+    "Answer": "For fashion",
+    "AnswerValue": 3
+  },
+  "Q6": {
+    "Text": "How did you order your {{(Q2.selectedText)}} from Especially Yours?",
+    "Answer": "By telephone",
+    "AnswerValue": 2
+  },
+  "Q7": {
+    "Text": "What type of device do you typically order with?",
+    "Answer": "Desktop",
+    "AnswerValue": 1
+  },
+  "Q7A_R1": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Helpfulness of Especially Yours’s product catalog as a source of information (e.g., description/pictures of products)",
+    "Answer": "Very Satisfied",
+    "AnswerValue": 1
+  },
+  "Q7A_R2": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Ease of using the Especiallyyours.com web site (e.g., finding what you were looking for, ease of browsing, helpfulness of ‘tips and trends’ information)",
+    "Answer": "Very Satisfied",
+    "AnswerValue": 1
+  },
+  "Q7A_R3": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Range/variety of products available",
+    "Answer": "Very Satisfied",
+    "AnswerValue": 1
+  },
+  "Q7A_R4": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Product availability (e.g., products you want in stock)",
+    "Answer": "Very Satisfied",
+    "AnswerValue": 1
+  },
+  "Q7A_R5": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Availability of pricing information",
+    "Answer": "Very Satisfied",
+    "AnswerValue": 1
+  },
+  "Q7A_R6": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Ease of placing orders",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q7A_R7": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Cost of products",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q7A_R8": {
+    "QText": "Ordering And Purchasing Products:",
+    "Text": "Using special offers (i.e., sale and clearance items, coupons, discount codes)",
+    "Answer": "Very Satisfied",
+    "AnswerValue": 1
+  },
+  "Q7A": {
+    "QText": "Ordering And Purchasing Products:",
+    "Rows": [
+      {
+        "Name": "Q7A_R1",
+        "Text": "Helpfulness of Especially Yours’s product catalog as a source of information (e.g., description/pictures of products)",
+        "Answer": "Very Satisfied",
+        "AnswerValue": 1
+      },
+      {
+        "Name": "Q7A_R2",
+        "Text": "Ease of using the Especiallyyours.com web site (e.g., finding what you were looking for, ease of browsing, helpfulness of ‘tips and trends’ information)",
+        "Answer": "Very Satisfied",
+        "AnswerValue": 1
+      },
+      {
+        "Name": "Q7A_R3",
+        "Text": "Range/variety of products available",
+        "Answer": "Very Satisfied",
+        "AnswerValue": 1
+      },
+      {
+        "Name": "Q7A_R4",
+        "Text": "Product availability (e.g., products you want in stock)",
+        "Answer": "Very Satisfied",
+        "AnswerValue": 1
+      },
+      {
+        "Name": "Q7A_R5",
+        "Text": "Availability of pricing information",
+        "Answer": "Very Satisfied",
+        "AnswerValue": 1
+      },
+      {
+        "Name": "Q7A_R6",
+        "Text": "Ease of placing orders",
+        "Answer": "Somewhat Satisfied",
+        "AnswerValue": 2
+      },
+      {
+        "Name": "Q7A_R7",
+        "Text": "Cost of products",
+        "Answer": "Somewhat Satisfied",
+        "AnswerValue": 2
+      },
+      {
+        "Name": "Q7A_R8",
+        "Text": "Using special offers (i.e., sale and clearance items, coupons, discount codes)",
+        "Answer": "Very Satisfied",
+        "AnswerValue": 1
+      }
+    ]
+  },
+  "Q7B_R9": {
+    "QText": "Product Delivery",
+    "Text": "Shipping and handling policies (e.g., number of days for delivery, cost of shipping)",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q7B_R10": {
+    "QText": "Product Delivery",
+    "Text": "Timeliness of deliveries (i.e., order was delivered in promised timeframe)",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q7B_R11": {
+    "QText": "Product Delivery",
+    "Text": "Quality of shipments (e.g., accuracy, condition of product)",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q7B_R12": {
+    "QText": "Product Delivery",
+    "Text": "Communication about order status (e.g., confirmation of order, notification of delivery)",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q7B": {
+    "QText": "Product Delivery",
+    "Rows": [
+      {
+        "Name": "Q7B_R9",
+        "Text": "Shipping and handling policies (e.g., number of days for delivery, cost of shipping)",
+        "Answer": "Somewhat Satisfied",
+        "AnswerValue": 2
+      },
+      {
+        "Name": "Q7B_R10",
+        "Text": "Timeliness of deliveries (i.e., order was delivered in promised timeframe)",
+        "Answer": "Somewhat Satisfied",
+        "AnswerValue": 2
+      },
+      {
+        "Name": "Q7B_R11",
+        "Text": "Quality of shipments (e.g., accuracy, condition of product)",
+        "Answer": "Somewhat Satisfied",
+        "AnswerValue": 2
+      },
+      {
+        "Name": "Q7B_R12",
+        "Text": "Communication about order status (e.g., confirmation of order, notification of delivery)",
+        "Answer": "Somewhat Satisfied",
+        "AnswerValue": 2
+      }
+    ]
+  },
+  "Q7C_R13": {
+    "QText": "Product Quality/Experience",
+    "Text": "Product fit",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C_R14": {
+    "QText": "Product Quality/Experience",
+    "Text": "Product comfort",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C_R15": {
+    "QText": "Product Quality/Experience",
+    "Text": "Product color",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C_R16": {
+    "QText": "Product Quality/Experience",
+    "Text": "Quality of materials",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C_R17": {
+    "QText": "Product Quality/Experience",
+    "Text": "Product style",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C_R18": {
+    "QText": "Product Quality/Experience",
+    "Text": "Helping you look your best/feel confident",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C_R19": {
+    "QText": "Product Quality/Experience",
+    "Text": "Product matched the catalogue description/picture",
+    "Answer": "Neither Satisfied Nor Dissatisfied",
+    "AnswerValue": 3
+  },
+  "Q7C": {
+    "QText": "Product Quality/Experience",
+    "Rows": [
+      {
+        "Name": "Q7C_R13",
+        "Text": "Product fit",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      },
+      {
+        "Name": "Q7C_R14",
+        "Text": "Product comfort",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      },
+      {
+        "Name": "Q7C_R15",
+        "Text": "Product color",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      },
+      {
+        "Name": "Q7C_R16",
+        "Text": "Quality of materials",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      },
+      {
+        "Name": "Q7C_R17",
+        "Text": "Product style",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      },
+      {
+        "Name": "Q7C_R18",
+        "Text": "Helping you look your best/feel confident",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      },
+      {
+        "Name": "Q7C_R19",
+        "Text": "Product matched the catalogue description/picture",
+        "Answer": "Neither Satisfied Nor Dissatisfied",
+        "AnswerValue": 3
+      }
+    ]
+  },
+  "Q7D_R1": {
+    "QText": "Payments, Returns/Exchanges & Refunds:",
+    "Text": "Making payments (e.g., accuracy of bill, ease of correcting billing problems)",
+    "Answer": "Somewhat Dissatisfied",
+    "AnswerValue": 4
+  },
+  "Q7D_R2": {
+    "QText": "Payments, Returns/Exchanges & Refunds:",
+    "Text": "Ease of returning items for an exchange (e.g., the 60-day allowance for exchanging, using the SmartPost® return label, timeliness of receiving a new product)",
+    "Answer": "Somewhat Dissatisfied",
+    "AnswerValue": 4
+  },
+  "Q7D_R3": {
+    "QText": "Payments, Returns/Exchanges & Refunds:",
+    "Text": "Ease of returning items for a refund (e.g., refund policy, restocking fee, timeliness of receiving refund)",
+    "Answer": "Somewhat Dissatisfied",
+    "AnswerValue": 4
+  },
+  "Q7D": {
+    "QText": "Payments, Returns/Exchanges & Refunds:",
+    "Rows": [
+      {
+        "Name": "Q7D_R1",
+        "Text": "Making payments (e.g., accuracy of bill, ease of correcting billing problems)",
+        "Answer": "Somewhat Dissatisfied",
+        "AnswerValue": 4
+      },
+      {
+        "Name": "Q7D_R2",
+        "Text": "Ease of returning items for an exchange (e.g., the 60-day allowance for exchanging, using the SmartPost® return label, timeliness of receiving a new product)",
+        "Answer": "Somewhat Dissatisfied",
+        "AnswerValue": 4
+      },
+      {
+        "Name": "Q7D_R3",
+        "Text": "Ease of returning items for a refund (e.g., refund policy, restocking fee, timeliness of receiving refund)",
+        "Answer": "Somewhat Dissatisfied",
+        "AnswerValue": 4
+      }
+    ]
+  },
+  "Q7E_R23": {
+    "QText": "Getting Help From Customer Service:",
+    "Text": "Ease of reaching customer service (e.g., knowing who to contact, time on hold)",
+    "Answer": "Very Dissatisfied",
+    "AnswerValue": 5
+  },
+  "Q7E_R24": {
+    "QText": "Getting Help From Customer Service:",
+    "Text": "Responsiveness of customer service reps (e.g., helpfulness, knowledge)",
+    "Answer": "Very Dissatisfied",
+    "AnswerValue": 5
+  },
+  "Q7E_R25": {
+    "QText": "Getting Help From Customer Service:",
+    "Text": "Follow-through of customer service rep on promised actions",
+    "Answer": "Very Dissatisfied",
+    "AnswerValue": 5
+  },
+  "Q7E": {
+    "QText": "Getting Help From Customer Service:",
+    "Rows": [
+      {
+        "Name": "Q7E_R23",
+        "Text": "Ease of reaching customer service (e.g., knowing who to contact, time on hold)",
+        "Answer": "Very Dissatisfied",
+        "AnswerValue": 5
+      },
+      {
+        "Name": "Q7E_R24",
+        "Text": "Responsiveness of customer service reps (e.g., helpfulness, knowledge)",
+        "Answer": "Very Dissatisfied",
+        "AnswerValue": 5
+      },
+      {
+        "Name": "Q7E_R25",
+        "Text": "Follow-through of customer service rep on promised actions",
+        "Answer": "Very Dissatisfied",
+        "AnswerValue": 5
+      }
+    ]
+  },
+  "Q7F_R26": {
+    "QText": "Especially Yours As A Company:",
+    "Text": "Providing a customer-focused approach to service (e.g., going above and beyond to ensure you are taken care of)",
+    "Answer": "NA",
+    "AnswerValue": 6
+  },
+  "Q7F_R27": {
+    "QText": "Especially Yours As A Company:",
+    "Text": "Resolving your individual questions/problems",
+    "Answer": "NA",
+    "AnswerValue": 6
+  },
+  "Q7F_R28": {
+    "QText": "Especially Yours As A Company:",
+    "Text": "Opportunities to provide feedback/suggestions for improvement",
+    "Answer": "NA",
+    "AnswerValue": 6
+  },
+  "Q7F": {
+    "QText": "Especially Yours As A Company:",
+    "Rows": [
+      {
+        "Name": "Q7F_R26",
+        "Text": "Providing a customer-focused approach to service (e.g., going above and beyond to ensure you are taken care of)",
+        "Answer": "NA",
+        "AnswerValue": 6
+      },
+      {
+        "Name": "Q7F_R27",
+        "Text": "Resolving your individual questions/problems",
+        "Answer": "NA",
+        "AnswerValue": 6
+      },
+      {
+        "Name": "Q7F_R28",
+        "Text": "Opportunities to provide feedback/suggestions for improvement",
+        "Answer": "NA",
+        "AnswerValue": 6
+      }
+    ]
+  },
+  "Q7G": {
+    "Text": "Earlier you said you were less than satisfied with ease of exchanging or returning items, which of the following contributed to your rating?",
+    "Answer": [
+      "Non-refundable fees (e.g. restocking, smart return label, etc.)",
+      "Allowed days to return"
+    ],
+    "AnswerValue": [
+      3,
+      2
+    ]
+  },
+  "Q8": {
+    "Text": "Even in experiences with the premium products like those offered by Especially Yours, questions or problems may sometimes occur. Please read the list below and click the box(es) next to any questions or problems you experienced with Especially Yours {{(Q2.selectedText)}}.",
+    "Answer": [
+      "Product quality/experience",
+      "Product Fit",
+      "Payments"
+    ],
+    "AnswerValue": [
+      3,
+      4,
+      5
+    ]
+  },
+  "Q9": {
+    "Text": "Which ONE of the questions or problems you cited do you consider to be your MOST IMPORTANT question or problem?",
+    "Answer": "Product quality/experience",
+    "AnswerValue": 3
+  },
+  "Q10": {
+    "Text": "Please describe your most important question or problem in more detail.",
+    "Answer": "gfd dfdhg"
+  },
+  "Q11": {
+    "Text": "Did you contact anyone at Especially Yours about your most important question or problem?",
+    "Answer": "Yes",
+    "AnswerValue": 1
+  },
+  "Q12": {
+    "Text": "What was your PRIMARY method of contact when attempting to resolve your most important question or problem?",
+    "Answer": "Telephone",
+    "AnswerValue": 1
+  },
+  "Q13": {
+    "Text": "In total, how many times did you contact Especially Yours in an attempt to resolve your most important question or problem?",
+    "Answer": "4",
+    "AnswerValue": 4
+  },
+  "Q14": {
+    "Text": "Has final action been taken to resolve your most important question or problem?",
+    "Answer": "Yes",
+    "AnswerValue": 1
+  },
+  "Q15": {
+    "Text": "Which ONE of the following statements best describes your feelings about the action taken by Especially Yours to resolve your most important question or problem?",
+    "Answer": "I was completely satisfied",
+    "AnswerValue": 2
+  },
+  "Q15A": {
+    "Text": "What did Especially Yours do to ensure your satisfaction when addressing your most important question or problem?",
+    "Answer": "gdzg dgfdgfd"
+  },
+  "Q16": {
+    "Text": "How many other people (e.g., friends, family) have you told about your most important question or problem with Especially Yours and the action taken to resolve your issue? ",
+    "Answer": "3",
+    "AnswerValue": 4
+  },
+  "Q17": {
+    "Text": "Overall, how satisfied are you with Especially Yours?",
+    "Answer": "Somewhat Satisfied",
+    "AnswerValue": 2
+  },
+  "Q19": {
+    "Text": "What one action could Especially Yours take to most improve your experience?",
+    "Answer": "cdgdaf fdgdsfd"
+  },
+  "Q20": {
+    "Text": "Using a 0-10 scale where “10” means Extremely Likely and “0” means Not At All Likely, how likely are you to recommend Especially Yours?",
+    "Answer": "8",
+    "AnswerValue": 8
+  },
+  "Q21": {
+    "Text": "How likely are you to continue to purchase Especially Yours products in the future?",
+    "Answer": "Probably Will",
+    "AnswerValue": 2
+  },
+  "Q23": {
+    "Text": "Which other products do you wish Especially Yours offered?",
+    "Answer": [
+      "Foundations/shapewear",
+      "Softer color palette (mint, soft pink, etc)"
+    ],
+    "AnswerValue": [
+      6,
+      9
+    ]
+  },
+  "Q24": {
+    "Text": "Besides Especially Yours, what other brands of similar products have you purchased in the past 12 months?",
+    "Answer": [
+      "Discounters (TJ Maxx, Burlington, K&G)",
+      "Plus size retailers (Ashley Stewart,  Roamans, Lane Bryant)"
+    ],
+    "AnswerValue": [
+      3,
+      4
+    ]
+  },
+  "Q25": {
+    "Text": "Among those brands that you have purchased in the past 12 months, which ONE brand do you consider to be “the best”?",
+    "Answer": "Especially Yours",
+    "AnswerValue": 8
+  },
+  "Q26": {
+    "Text": "Why is {{(Q25.selectedText)}} “the best”?",
+    "Answer": [
+      "Payments",
+      "Product quality/experience",
+      "Product delivery"
+    ],
+    "AnswerValue": [
+      5,
+      3,
+      2
+    ]
+  },
+  "Q27": {
+    "Text": "What one action should Especially Yours take to most improve your experience?",
+    "Answer": "gdg dsfgdsgfds"
+  },
+  "Q28": {
+    "Text": "How do you self-identify?",
+    "Answer": "Male",
+    "AnswerValue": 1
+  },
+  "Q29": {
+    "Text": "What is your current age?",
+    "Answer": "45"
+  },
+  "HIDAGE": {
+    "Text": "HIDDEN AGE QUESTION: PROGRAMMER: REFER TO Q29. AUTOMARK AGE.",
+    "Answer": "40-45",
+    "AnswerValue": 6
+  },
+  "Q30": {
+    "Text": "Which of the following best describes you?",
+    "Answer": [
+      "Hispanic/Latino/Spanish origin",
+      "Asian/Pacific Islander"
+    ],
+    "AnswerValue": [
+      4,
+      2
+    ]
+  },
+  "Q31": {
+    "Text": "What’s your marital status?",
+    "Answer": "Living together",
+    "AnswerValue": 2
+  },
+  "Q32": {
+    "Text": "What’s your annual household income, before taxes?  Your best estimate is fine.",
+    "Answer": "$30,000 - $39,999",
+    "AnswerValue": 3
+  }
+}
+}
